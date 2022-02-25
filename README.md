@@ -1,4 +1,4 @@
-# Version-Control-Lab
+# Avarice
 Cole and Sarah's version control lab
 
 
