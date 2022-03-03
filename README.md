@@ -32,4 +32,4 @@ Please follow our Code of Conduct; we used the Contributer Covenent. More detail
 
 ### Miscellaneous
 
-We used the unlicense license because we felt it offered adequate protection for our work and is very the open-source friendly. It is also very clear and concise. We used the Contributer Covenent because we feel it clearly describes what behavior is acceptable or unnacceptable for our project. Also, it is very widely used, which does mean it comes with a certain amount of respect.
+We used the unlicense license because we felt it offered adequate protection for our work and is very the open-source friendly. It is also very clear and concise. We used the Contributer Covenent because we feel it clearly describes what behavior is acceptable or unnacceptable for our project. Also, it is very widely used, which means it does come with a certain amount of respect.
